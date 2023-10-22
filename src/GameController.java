@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface GameController {
+interface GameController {
+    Character isButtonPressed(Character button);
 }
