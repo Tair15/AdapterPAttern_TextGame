@@ -1,0 +1,1 @@
+# AdapterPAttern_TextGame
